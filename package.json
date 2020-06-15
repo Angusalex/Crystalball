@@ -1,0 +1,16 @@
+{
+  "name": "crystalball",
+  "version": "1.0.0",
+  "description": "Crystalball is a Crystal ball that tell you the best.",
+  "main": "crystalball.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "crystalball",
+    "crystal",
+    "ball"
+  ],
+  "author": "Nsg",
+  "license": "ISC"
+}
