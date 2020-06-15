@@ -1,12 +1,13 @@
 {
   "name": "mycrystalball",
-  "version": "1.0.1",
-  "description": "Crystalball is a Crystal ball that tell you the best.",
-  "main": "crystalball.js",
+  "version": "1.0.2",
+  "description": "mycrystalball is a crystal ball that tell you the best.",
+  "main": "mycrystalball.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
+    "mycrystalball",
     "crystalball",
     "crystal",
     "ball"
