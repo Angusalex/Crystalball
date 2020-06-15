@@ -1,33 +1,33 @@
-# Crystalball
-Crystalball is a Crystal ball that tell you the best.
+# mycrystalball
+mycrystalball is a Crystal ball that tell you the best.
 
 ## Installation
 
 ```bash
-npm install crystalball
+npm install mycrystalball
 ```
 
 ## Usage
 
 ```javascript
-import crystalball
+import mycrystalball
 
-crystalball() # returns 'Something'
+mycrystalball() # returns 'Something'
 ```
 
 ## Example
 
 ```javascript
-import crystalball
+import mycrystalball
 
   const [value, setValue] = React.useState("")
 
-  const crystalballfunc = () => {
-    setValue(crystalball())
+  const mycrystalballfunc = () => {
+    setValue(mycrystalball())
   }
 
   <p className="description">
-    <button type="button" className="btn btn-primary" onClick={crystalballfunc}>Tell me something!</button>
+    <button type="button" className="btn btn-primary" onClick={mycrystalballfunc}>Tell me something!</button>
   </p>
 
   {value && <div className="card border-primary mb-3">

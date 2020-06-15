@@ -1,6 +1,6 @@
 {
-  "name": "crystalball",
-  "version": "1.0.0",
+  "name": "mycrystalball",
+  "version": "1.0.1",
   "description": "Crystalball is a Crystal ball that tell you the best.",
   "main": "crystalball.js",
   "scripts": {
@@ -12,5 +12,13 @@
     "ball"
   ],
   "author": "Nsg",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Angusalex/crystalball.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Angusalex/crystalball/issues"
+  },
+  "homepage": "https://github.com/Angusalex/crystalball#readme"
 }
